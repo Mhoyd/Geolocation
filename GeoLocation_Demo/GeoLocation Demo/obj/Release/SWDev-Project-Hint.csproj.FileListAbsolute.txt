@@ -1,0 +1,10 @@
+C:\Users\schai\source\repos\SWDev-Project-Hint\bin\Release\SWDev-Project-Hint.exe.config
+C:\Users\schai\source\repos\SWDev-Project-Hint\bin\Release\SWDev-Project-Hint.exe
+C:\Users\schai\source\repos\SWDev-Project-Hint\bin\Release\SWDev-Project-Hint.pdb
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Release\SWDev-Project-Hint.csproj.AssemblyReference.cache
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Release\SWDev_Project_Hint.Form1.resources
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Release\SWDev_Project_Hint.Properties.Resources.resources
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Release\SWDev-Project-Hint.csproj.GenerateResource.cache
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Release\SWDev-Project-Hint.csproj.CoreCompileInputs.cache
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Release\SWDev-Project-Hint.exe
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Release\SWDev-Project-Hint.pdb

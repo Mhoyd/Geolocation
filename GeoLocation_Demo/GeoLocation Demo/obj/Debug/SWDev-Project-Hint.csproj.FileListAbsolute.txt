@@ -1,0 +1,22 @@
+C:\Users\schai\source\repos\SWDev-Project-Hint\bin\Debug\SWDev-Project-Hint.exe.config
+C:\Users\schai\source\repos\SWDev-Project-Hint\bin\Debug\SWDev-Project-Hint.exe
+C:\Users\schai\source\repos\SWDev-Project-Hint\bin\Debug\SWDev-Project-Hint.pdb
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Debug\SWDev_Project_Hint.Form1.resources
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Debug\SWDev_Project_Hint.Properties.Resources.resources
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.csproj.GenerateResource.cache
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.csproj.CoreCompileInputs.cache
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.exe
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.pdb
+C:\Users\schai\source\repos\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\bin\Debug\SWDev-Project-Hint.exe.config
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\bin\Debug\SWDev-Project-Hint.exe
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\bin\Debug\SWDev-Project-Hint.pdb
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\obj\Debug\SWDev_Project_Hint.Form1.resources
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\obj\Debug\SWDev_Project_Hint.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.exe
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.pdb
+C:\Users\User\OneDrive\Desktop\My Works\การพัฒนาระบบซอฟแวร์ 1\SWDev-Project-Hint\obj\Debug\SWDev-Project-Hint.csproj.ResolveComReference.cache
